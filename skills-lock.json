@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "deploy": {
+      "source": "heyo-computer/skills",
+      "sourceType": "github",
+      "computedHash": "62fc84ce4701a48771aee34abf1b37334d872b7d40b8c0524ea1eec656cae820"
+    },
+    "heyvm": {
+      "source": "heyo-computer/skills",
+      "sourceType": "github",
+      "computedHash": "b4f8fb1d2173096cafbcbd48140d516545a68fd3388ba0e0f6dc11aee1af1b6d"
+    },
+    "heyvm-login": {
+      "source": "heyo-computer/skills",
+      "sourceType": "github",
+      "computedHash": "71ef45f1b32ff0782fd02c08b09473faff78075ed5914dd7c3afc6b040c071b0"
+    },
+    "heyvm-proxy": {
+      "source": "heyo-computer/skills",
+      "sourceType": "github",
+      "computedHash": "28587c602d84c71c36ed0310cb94f6b41972170cd324c4a8b77fede23f0acf14"
+    },
+    "heyvm-system": {
+      "source": "heyo-computer/skills",
+      "sourceType": "github",
+      "computedHash": "85b10cc3045f8572f34bcc8e9e4466be707d47ab605a8dd638cfb3960ca9bec5"
+    }
+  }
+}

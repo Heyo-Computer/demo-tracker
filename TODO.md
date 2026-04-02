@@ -1,12 +1,11 @@
-# Drink Tracker
-The goal of this project is a simple tracker that allows me to enter the number of drinks I have had in any given day. The tracker should report metrics such as "total drinks over the last week", etc. 
+# Tracker App
+The goal of this app is to track my hikes and capture the trail, milleage, dog friendly-ness, a basic rating, and an optional note. Assume date is today if left blank.
 
 Todo items:
-- [ ] install heyvm skills
 - [ ] create new cargo project
 - [ ] use SSR
 - [ ] bind to 0.0.0.0
 - [ ] implement simple PIN based auth gate
 - [ ] Simple KV JSON store on disk
-- [ ] Increment number of drinks for a day
-- [ ] Track total drinks over last 7 days
+- [ ] Allow simple form for entering in hike info
+- [ ] List previous hikes
