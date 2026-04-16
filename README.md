@@ -11,7 +11,7 @@ cat TODO.md
 The goal of this app is to track my hikes and capture the trail, milleage, dog friendly-ness, a basic rating, and an optional note. Assume date is today if left blank.
 
 Todo items:
-- [ ] create new cargo project
+- [ ] create new JavaScript/HTML/CSS project
 - [ ] use SSR
 - [ ] bind to 0.0.0.0
 - [ ] implement simple PIN based auth gate
